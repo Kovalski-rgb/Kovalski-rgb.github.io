@@ -1,5 +1,5 @@
 function sprites(lado, velocidade){
-    var spriteCycle = false
+    /*var spriteCycle = false
     if(velocidade == 0){
         lado += 0;
     }
@@ -8,9 +8,9 @@ function sprites(lado, velocidade){
     }
     if((velocidade>=1 || velocidade<25) && spriteCycle){
         
-    }
+    }*/
 
-    
+    lado += 0;
     var sprite = document.getElementById(lado); //deixa a referencia do sprite na variavel sprite
     //////////////////////////debugging
     //https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/slice
