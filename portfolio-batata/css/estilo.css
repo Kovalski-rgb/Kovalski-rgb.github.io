@@ -1,0 +1,26 @@
+.tronco{
+    margin: auto;
+    max-width: 50%;
+}
+
+.tronco ul{
+    margin-left: 150px;
+    margin-top: -135px;
+}
+
+.linha-massa-uau{
+    background-color: darkslategrey;
+    height: 2px;
+    width: 100%;
+}
+
+.texto-guitarino{
+    margin-left: 220px;
+    margin-top: -180px;
+}
+
+body{
+    background-color: lightgreen;
+    color:darkslategrey;
+    font-size: 20px;
+}
