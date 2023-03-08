@@ -1,3 +1,13 @@
+.profPic{
+    transition: transform 3s ease-in-out;
+    border-radius: 50%;
+}
+.profPic:hover {
+    transform: 
+    rotate(18000deg)
+    scale(2)
+}
+
 .tronco{
     margin: auto;
     max-width: 50%;
